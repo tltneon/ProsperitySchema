@@ -1,0 +1,7 @@
+// Extracted with MulleDK19's GMAD Extractor
+"AddonInfo"
+{
+	"name" "The Sawgun"
+	"author_name" "Unknown"
+	"info" " ***Contains***  The Sawgun ~~ (left)Shoots Sawblades/(right) Shoots 3 Sawblades at once - sawblades auto dissapear  - you will receive ammo if you pick up shot sawblades - 1 reload gives u 6 sawblades - Custom killicon, hud and entities picture - Custom Weapon Model - The sawblade on the gun is rotating - command: "Sawblade_rotate 1/0" , "Sawblade_collide "1/0" and "Sawblade_damage #number"  +++New (9/09/2014) -->New Command ! "Sawblade_damage #number" +++  --Video Made By TheRubyAxe--  //////SANDBOX ZOMBIE SURVIVAL SERVER////  ip: 92.222.242.107:27015   - Loot  - custom hud  - fitting ranks  - zombie apocalypse theme  - modified shop + npc  - (exclusive) working Jetpack and Bioshock Plasmids  - ... "
+}

@@ -1,0 +1,7 @@
+// Extracted with MulleDK19's GMAD Extractor
+"AddonInfo"
+{
+	"name" "Drako2k's SFX Pack"
+	"author_name" "Unknown"
+	"info" "This is a Special Effects pack originally created by a user named Drako2k. The only thing I did was convert it to Gmod 13's lua format so that it can function properly.  Effects included in this pack: energy ball, fire, glow, smoke, smoke trail, sparks, starfield (not pictured), steam (not pictured), and telsa.  Note: A collection of presets that Drako2k made for the pack could not be included due to the nature of the Workshop Addon System. Drop a comment or pm me if you would like for me to send them to you.  Special Thanks: Draco2k for the original code and Dr. Matt for helping me sort through a few lua errors I encountered while recoding the pack."
+}

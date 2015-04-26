@@ -1,0 +1,7 @@
+// Extracted with MulleDK19's GMAD Extractor
+"AddonInfo"
+{
+	"name" "Playable Piano"
+	"author_name" "Unknown"
+	"info" "A completely playable piano that features multiple play modes, multiplayer support, and sheet music!  Check us out at http://www.gmtower.org  Please post your sheet music on our forums: http://www.gmtower.org/forums/index.php?topic=588.0."
+}

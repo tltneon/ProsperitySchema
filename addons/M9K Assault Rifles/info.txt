@@ -1,0 +1,61 @@
+"AddonInfo"
+{
+	"name" "M9K Assault Rifles"
+	"author_name" "author"
+	"info" "[url=http://steamcommunity.com/sharedfiles/filedetails/?id=144982052]SPECIALTIES PACK IS OUT![/url]
+
+Included in this addon:
+Shells from Gamebanana, released under Creative Commons, and WAREZ FREE!
+
+Ammo boxes which can explode if damaged.
+
+Recoil in Singleplayer.
+
+Selective Fire: Some weapons can now change between full automanic and semi automatic.
+Hole Use (default E) and hit Reload to select auto or semi-auto.
+
+Optional Empty Weapon Stripping: Weapons with no ammo left will be dropped. To disable this, enter M9KWeaponStrip in the console and change the value to 0.
+
+Optional Gas Effects when firing your weapon. To disable this effect, enter M9KGasEffect in the console and change the value to 0. If you are using an older computer or lag severely when firing, disable the effect
+
+Optional Bullet Penetration. Enter console command "M9KDisablePenetration" and enter 1 to disable penetration.
+
+This addon does require CSS for hand textures, but you can find a suitable replacement here on the workshop. 
+
+Included are 19 weapons, listed and credited below. 
+
+--------------Assault Rifles-------------- 
+[url=http://gamebanana.com/css/skins/106787]ACR[/url]
+[url=http://gamebanana.com/css/skins/89139]M4A1[/url]
+[url=http://gamebanana.com/css/skins/92330]M16A4[/url]
+[url=http://gamebanana.com/css/skins/49591]FN FAL[/url]
+[url=http://gamebanana.com/skins/109138]AK-74[/url]
+[url=http://gamebanana.com/css/skins/79718]AK-47[/url]
+[url=http://css.gamebanana.com/skins/119166]SCAR-H[/url]
+[url=http://gamebanana.com/css/skins/37711]Aug A3[/url]
+[url=http://gamebanana.com/css/skins/94821]AS Val[/url]
+[url=http://gamebanana.com/css/skins/94319]Vikhr[/url]
+[url=http://gamebanana.com/css/skins/7925]F2000[/url]
+[url=http://gamebanana.com/css/skins/21040]FAMAS[/url]
+[url=http://gamebanana.com/css/skins/94958]L85[/url]
+[url=http://gamebanana.com/css/skins/114308]G3A3[/url]
+[url=http://gamebanana.com/css/skins/110796]M14[/url]
+[url=http://gamebanana.com/css/skins/103204]HK 416[/url]
+[url=http://gamebanana.com/css/skins/86478]G36C[/url]
+[url=http://gamebanana.com/css/skins/40847]Winchester 1873[/url]
+[url=http://gamebanana.com/models/1936]AMD-65[/url]([url=http://css.gamebanana.com/skins/54505] Animations[/url] )
+
+Thanks to Mr. F-kusu for converting the  M14, M4, M16, Val, Vikhir, and Famas to GMod. 
+
+Legacy addon coming soon.
+
+PROBLEMS? DELETE THE OLD MURDERTHON ADDONS FROM YOUR ADDONS FOLDER!
+Check your addons folder (steam/steamapps/garrysmod/garrysmod/addons) and delete the old Murderthon 9000 addons. At the end of the file name is an addon number. The old addons start with 11.
+
+Are you downloading all addons at once? Unsubscribe and try to download them one at a time.
+
+If GMod still doesn't want do download the addon, download this zipped file at the link below, and extract it to your addons folder (steam/steamapps/(steam name here)/garrysmod/garrysmod/addons). Be sure to remain subscribed to this addon to access the weapons.
+[url=https://mega.co.nz/#!v45VyYyS!KGB9gyG13cHApAkLSrpbJC3DldlDZP3rsAbkAj9tZ1g]Assault Rifles Zipped GMA [/url]
+
+Do you have a lot of addons installed? If so, you might have hit the lua limit, and you will either have to delete some old addons, or decide whether you want this addon over some of the others."
+}

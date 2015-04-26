@@ -1,0 +1,84 @@
+"AddonInfo"
+{
+	"name" "M9K Small Arms pack"
+	"author_name" "author"
+	"info" "[url=http://steamcommunity.com/sharedfiles/filedetails/?id=144982052]SPECIALTIES PACK IS OUT![/url]
+
+Included in this addon:
+Shells from Gamebanana, released under Creative Commons, and WAREZ FREE!
+
+Ammo boxes which can explode if damaged.
+
+Recoil in Singleplayer.
+
+Selective Fire: Some weapons can now change between full automanic and semi automatic.
+Hole Use (default E) and hit Reload to select auto or semi-auto.
+
+Optional Empty Weapon Stripping: Weapons with no ammo left will be dropped. To disable this, enter M9KWeaponStrip in the console and change the value to 0.
+
+Optional Gas Effects when firing your weapon. To disable this effect, enter M9KGasEffect in the console and change the value to 0. If you are using an older computer or lag severely when firing, disable the effect
+
+Optional Bullet Penetration. Enter console command "M9KDisablePenetration" and enter 1 to disable penetration.
+
+This addon does require CSS for hand textures, but you can find a suitable replacement here on the workshop. 
+
+Included are 31 weapons, listed and credited below. 
+--------------PISTOLS-------------- 
+[url=http://gamebanana.com/css/skins/109922]Colt 1911 [/url]
+[url=http://gamebanana.com/css/skins/93724]Glock 18 [/url]
+[url=http://gamebanana.com/css/skins/115946]SIG Sauer P229R[/url]
+[url=http://gamebanana.com/css/skins/111125]Desert Eagle [/url]
+[url=http://gamebanana.com/css/skins/110912]HK USP [/url]
+[url=http://gamebanana.com/css/skins/121795]HK45C [/url]
+[url=http://gamebanana.com/css/skins/50297]P08 Luger [/url]
+[url=http://gamebanana.com/css/skins/117580]Beretta M9 [/url]
+
+--------------REVOLVERS-------------- 
+[url=http://css.gamebanana.com/skins/114748]Colt Python [/url]
+[url=http://css.gamebanana.com/skins/114515]M29 Satan [/url]
+[url=http://gamebanana.com/css/skins/26522]Model 3 Russian [/url]
+[url=http://gamebanana.com/css/skins/110985]Model 500 [/url]
+[url=http://gamebanana.com/css/skins/19419]Model 627 [/url]
+[url=http://gamebanana.com/css/skins/16585]Raging Bull [/url]
+[url=http://gamebanana.com/css/skins/36335]Remington 1858 [/url]
+
+--------------SUBMACHINE GUNS-------------- 
+[url=http://css.gamebanana.com/skins/59614]USC [/url]
+[url=http://gamebanana.com/css/skins/105553]MP5 [/url]
+[url=http://css.gamebanana.com/skins/97270]MP5SD[/url]
+[url=http://css.gamebanana.com/skins/106901]Magpul PDR[/url]
+[url=http://css.gamebanana.com/skins/123624]AAC Honey Badger[/url]
+[url=http://gamebanana.com/css/skins/32514]Bizon [/url]
+[url=http://gamebanana.com/css/skins/16679]MP7[/url]
+[url=http://gamebanana.com/css/skins/18808]P90 [/url]
+[url=http://gamebanana.com/css/skins/27596]Sten [/url]
+[url=http://gamebanana.com/css/skins/30571]Tommy gun [/url]
+[url=http://css.gamebanana.com/skins/117184]Uzi [/url]
+[url=http://css.gamebanana.com/skins/115036]UMP45 [/url]
+[url=http://gamebanana.com/css/skins/37182]KRISS Vector [/url]
+[url=http://gamebanana.com/css/skins/119079]MP9 [/url]
+[url=http://gamebanana.com/css/skins/14056]TEC-9 [/url]
+[url=http://gamebanana.com/css/skins/122129]KAC PDW [/url]
+
+--------------OTHER MODELS-------------- 
+[url=http://gamebanana.com/models/868]Scope used with Raging Bull [/url]
+[url=http://www.garrysmod.org/downloads/?a=view&id=131966]EOTECH Model on KAC PDW [/url]
+
+Thanks to Mr. F-kusu for converting the 1911, Glock, Desert Eagle, and USP to GMod. 
+Thanks to Baddog for converting the MP7 to GMod. 
+
+All questions and comments should be directed to INCONCEIVABLE! 
+
+Legacy addon coming soon.
+
+PROBLEMS? DELETE THE OLD MURDERTHON ADDONS FROM YOUR ADDONS FOLDER!
+Check your addons folder (steam/steamapps/garrysmod/garrysmod/addons) and delete the old Murderthon 9000 addons. At the end of the file name is an addon number. The old addons start with 11.
+
+Are you downloading all addons at once? Unsubscribe and try to download them one at a time.
+
+
+If GMod still doesn't want do download the addon, download this zipped file at the link below, and extract it to your addons folder (steam/steamapps/(steam name here)/garrysmod/garrysmod/addons). Be sure to remain subscribed to this addon to access the weapons.
+[url=https://mega.co.nz/#!6wZDmIbJ!DhHGjl4v9Q8_DPx6DPkvNVo2YD068GVmD9vAyHnvN6Y]Small Arms Zipped GMA [/url]
+
+Do you have a lot of addons installed? If so, you might have hit the lua limit, and you will either have to delete some old addons, or decide whether you want this addon over some of the others."
+}

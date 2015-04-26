@@ -1,0 +1,18 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/sin/hopper/MinorGibs"
+	"$surfaceprop" "alienflesh"
+        "$model" 1
+	"$bumpmap" "models/sin/hopper/MinorGibs_normal"
+	"$envmap" "env_cubemap"
+        "$normalmapalphaenvmapmask" "1"
+	"$envmaptint" "[ .5 .5 .5 ]"
+	"$envmapconstrast" "1"
+	"$envmapsaturation" 1
+} 
+
+
+
+
+
+

@@ -1,0 +1,17 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/sin/leperkin/TornUniform"
+	"$surfaceprop" "alienflesh"
+	"$alphatest" 1
+	"$model" 1
+	"$nocull" 1
+	"$bumpmap" "models/sin/leperkin/TornUniform_normal"
+	"$normalmapalphaenvmapmask" "1"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[0.25 0.25 0.25]"
+	"$envmapconstrast" "1"
+	"$envmapsaturation" 1
+}
+
+
+      

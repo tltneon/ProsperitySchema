@@ -1,0 +1,124 @@
+AddCSLuaFile()
+
+if SERVER then
+ENT.Base = "nz_projectile_base"
+end
+
+ENT.Type = "anim"
+ENT.Contact			= ""
+ENT.Purpose			= ""
+ENT.Instructions	= ""
+
+ENT.Spawnable 		= false
+ENT.AdminSpawnable 	= false
+
+ENT.Category 		= ""
+
+ENT.Model = "models/Gibs/HGIBS.mdl"
+
+if SERVER then
+	function ENT:Initialize()
+	 
+		self:SetModel( self.Model )
+		self:SetModelScale( 1.5, 0 )
+	 
+		self:SetHealth( 999999 )
+		self:PhysicsInit( SOLID_VPHYSICS )
+		self:SetSolid( SOLID_VPHYSICS )
+		
+			local phys = self:GetPhysicsObject()
+		if (phys:IsValid()) then
+			phys:EnableMotion( true )
+		end
+		
+		timer.Simple(0.8, function() 
+			if  ( self:IsValid() ) then
+			
+				local explosion = ents.Create("env_explosion")
+			explosion:SetPos( self:GetPos() )
+			explosion:Spawn()
+			explosion:SetKeyValue( "iMagnitude", 0 )
+			explosion:SetOwner(self:GetOwner())	
+			explosion:Fire( "Explode", 1, 0 )	
+			
+				self:Explode( self, math.random( 40, 50 ) )
+				SafeRemoveEntity( self ) 
+			end
+		end)
+		
+	end
+end
+
+function ENT:OnInjured(dmginfo)
+	dmginfo:ScaleDamage(0)
+end
+		
+function ENT:Explode( ent, power )
+
+	local ents = ents.FindInSphere( self:GetPos(), 120 )
+	for _,v in pairs(ents) do
+		
+		if v:IsPlayer() then
+			v:TakeDamage(5, self.Owner)
+			v:Ignite(2, 60)
+			v:ViewPunch(Angle(math.random(-1, 1)*power, math.random(-1, 1)*power, math.random(-1, 1)*power))
+		elseif v:IsNPC() and v != self and !v:GetClass("nazi_zombie_*", "npc_nextbot_*", "nz_*", "mob_zombie_*") then
+			v:TakeDamage(5, self.Owner)
+			v:Ignite(2, 60)
+		elseif v:GetClass("prop_physics") then
+			local phys = v:GetPhysicsObject()
+			if (phys != nil && phys != NULL && phys:IsValid()) then
+			phys:ApplyForceCenter(self:GetForward():GetNormalized()*30000 + Vector(0, 0, 2))
+			v:TakeDamage(5, self.Owner)	
+			v:Ignite(6, 60)
+			end
+		end	
+
+	end
+
+end	
+		
+function ENT:PhysicsCollide(data, physobj)
+	if self:IsValid() then
+		if SERVER then
+		
+		local ent = data.HitEntity
+			if ( ent and ent:IsValid() and ent:IsPlayer() ) or ( ent and ent:IsValid() and ent:IsNPC() ) then
+		
+			self:Explode( self, math.random( 40, 50 ) )
+		
+			local explosion = ents.Create("env_explosion")
+			explosion:SetPos( self:GetPos() )
+			explosion:Spawn()
+			explosion:SetKeyValue( "iMagnitude", 0 )
+			explosion:SetOwner(self:GetOwner())	
+			explosion:Fire( "Explode", 1, 0 )	
+		
+			SafeRemoveEntity( self ) 
+			
+			else
+			
+			local normal = data.OurOldVelocity:GetNormalized()
+			local DotProduct = data.HitNormal:Dot(normal * -1)
+			physobj:SetVelocityInstantaneous((2 * DotProduct * data.HitNormal + normal) * math.max(100, data.Speed) * 0.9)
+			
+			end
+	
+			if ent and ent:IsValid() and ent:GetClass() == "prop_physics" then
+		
+			local explosion = ents.Create("env_explosion")
+			explosion:SetPos( self:GetPos() )
+			explosion:Spawn()
+			explosion:SetKeyValue( "iMagnitude", 0 )
+			explosion:SetOwner(self:GetOwner())	
+			explosion:Fire( "Explode", 1, 0 )	
+		
+			self:Explode( self, math.random( 40, 50 ) )
+		
+			SafeRemoveEntity( self ) 
+			
+			end
+		
+		end
+	end
+end	

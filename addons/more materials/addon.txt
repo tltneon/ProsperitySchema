@@ -1,0 +1,7 @@
+// Extracted with MulleDK19's GMAD Extractor
+"AddonInfo"
+{
+	"name" "More Materials!"
+	"author_name" "Unknown"
+	"info" "This simple little addon adds many stock materials to be selected on your material STool list.  All materials come from either HL2 or Garry's Mod. CSS materials are also added, but only if CSS is mounted. You do not need CSS for this mod to work.  This works for singleplayer, and for multiplayer if the server has sv_allowcslua set to 1. "
+}

@@ -1,0 +1,7 @@
+// Extracted with MulleDK19's GMAD Extractor
+"AddonInfo"
+{
+	"name" "TES:III Bow Sweps Version 2.0"
+	"author_name" "Unknown"
+	"info" "Yes, these are SWEPs ;)  The arrows act a little weird when shot, I assume it was like this already before it "broke" for Gmod13. But they work, and deal damage. It's great fun!  Original uploader: Hellsing, see the screenshot for full credits. 1% goes to me for fixing and reuploading."
+}

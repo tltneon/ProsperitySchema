@@ -1,0 +1,7 @@
+// Extracted with MulleDK19's GMAD Extractor
+"AddonInfo"
+{
+	"name" "Stacker STool"
+	"author_name" "Unknown"
+	"info" "Fixed for GM13, with other minor tweaks, by me. Not originally my work.  Fixes: Fixes ghosting errors. Fix InWorld() check. Fix bug with checking if prop is valid. Fix check to see if count is less then or zero.  Tweaks: Allows mass unfreezing of stacked props with physgun. Allows full ghosting of props (Shows entire stack). Ghosts can have halos! Tweak menu values and sliders to be ALOT more useful. Add Ghost All option.  Todo: Clean ALL of the code!  GM12 Version (reupped by: sYcore, original author: OverlordUT): http://www.garrysmod.org/downloads/?a=view&id=64848"
+}

@@ -1,0 +1,7 @@
+// Extracted with MulleDK19's GMAD Extractor
+"AddonInfo"
+{
+	"name" "Resizer"
+	"author_name" "Unknown"
+	"info" "Resizes props, ragdolls and NPCs. Does not resize the hitbox or shadow, therefore mainly useful for posing/videos.  I couldn't find this tool in the workshop so I thought I'd make my own. It's very simple really, all you do is enable and set the RenderMultiply matrix to a scale matrix."
+}
