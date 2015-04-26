@@ -1,7 +1,0 @@
-"UnlitGeneric"
-{
-	"$basetexture" "killicons/flesh_strong"
-	"$nolod" 1
-	"$vertexalpha" 1
-	"$vertexcolor" 1
-}

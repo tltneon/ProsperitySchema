@@ -1,7 +1,0 @@
-"VertexLitGeneric"
-{
-	"$baseTexture" "models/Zombie_Fast/enraged_corpse3"
-	"$bumpmap" "models/Zombie_Fast/corpse_normal"
-	"$model" 1
-	"$halflambert" 1
-}

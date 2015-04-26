@@ -1,7 +1,0 @@
-// Extracted with MulleDK19's GMAD Extractor
-"AddonInfo"
-{
-	"name" "PlayX"
-	"author_name" "Author Name"
-	"info" " { 	"description": "PlayX is a Lua-Based Media player.", 	"type": "tool", 	"tags":  	[ 		"movie", 		"fun" 	] }"
-}

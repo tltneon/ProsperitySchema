@@ -1,7 +1,0 @@
-// Extracted with MulleDK19's GMAD Extractor
-"AddonInfo"
-{
-	"name" "LightSpheres"
-	"author_name" "Unknown"
-	"info" "This addon was created by Dlaor, and since nobody fixed it, I did the job. I take no credit for it, Dlaor made it, I only fixed it to work in GMod 13.  Original Facepunch Thread: http://facepunch.com/showthread.php?t=944504  What are these mysterious entities, you ask? Well, these things are LightSpheres: they forge a magical field of light around them, using lots of beautiful light sources which orbit the core of the LightSphere. These rotating orbs will form all kinds of different patterns when time progresses. Every LightSphere has a different pattern. You can change the color of the LightSpheres with the Color tool."
-}

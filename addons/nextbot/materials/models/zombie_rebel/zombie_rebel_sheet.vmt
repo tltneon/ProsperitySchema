@@ -1,6 +1,0 @@
-"VertexLitGeneric"
-{
-	// Original shader: VertexLitTexture
-	"$basetexture" "models/Zombie_rebel/Zombie_Rebel_sheet"
-	"$halflambert" 1
-}

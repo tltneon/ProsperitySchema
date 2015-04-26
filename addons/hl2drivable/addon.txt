@@ -1,7 +1,0 @@
-// Extracted with MulleDK19's GMAD Extractor
-"AddonInfo"
-{
-	"name" "Half-Life 2 Driveable Vehicles"
-	"author_name" "Unknown"
-	"info" "Third pack from the "Source Vehicles" pack. These are all the vehicles from Half-Life 2 and episodes, are all driveable and doesn't require anything, only Garry's Mod. Credit go to Valve for the original static models, and me to have converted them into prop_vehicle_jeep models and added animations.  Installation:  1. click the "subscribe" (or equivalent in your language) button; 2. Start Garry's Mod and wait for the end of download and install process; 3. Load a map of your choice; 4. you can find every vehicle under the "Source Vehicles" group in the "vehicles" category."
-}

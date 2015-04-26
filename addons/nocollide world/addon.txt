@@ -1,7 +1,0 @@
-// Extracted with MulleDK19's GMAD Extractor
-"AddonInfo"
-{
-	"name" "No Collide World"
-	"author_name" "Unknown"
-	"info" "This is a multifunctional no collide tool.   Features  - Can undo no collide.  - No collide with world.  - No collide constraint interactions.  - No collide with entities nearby.   Someone made a movie that shows one setting of the tool:  http://www.youtube.com/watch?v=gzPHxr88do0   Explanation of the effects:  White line = You are about to make no collide with these entities.  Green line = These entities do not collide with each other.  Orange line = Entity does not collide with the world. Red line = You are about to remove no collide. Blue line = Dont create no collide between these entities. White border = You are about to make no collide with players.  Green border = Entity does not collide with the player.  Orange border = Entity does not collide with any entity.   ID: 114297900"
-}

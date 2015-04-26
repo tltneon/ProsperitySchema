@@ -1,7 +1,0 @@
-// Extracted with MulleDK19's GMAD Extractor
-"AddonInfo"
-{
-	"name" "Glowsticks"
-	"author_name" "Unknown"
-	"info" "They're back! Good old glowsticks for Garry's mod now in Workshop! I've fixed some errors and bugs and made this addon available for GMod 13.  Now you can throw them (right mouse button) and simply toss them (left moust button)  Report any errors, because it's important for me. I almost forgot Lua since the last time i updated this addon! (2011)  [h1][url=http://steamcommunity.com/sharedfiles/filedetails/?id=106560489]Best map to test this addon [b](also featured in video)[/b][/url][/h1]  [h1][url=http://q.gs/3KK4O]Pirated download, arr![/url][/h1]"
-}

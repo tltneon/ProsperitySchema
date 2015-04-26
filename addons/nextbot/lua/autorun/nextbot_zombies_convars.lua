@@ -1,1 +1,0 @@
-	CreateConVar( "nb_attackprop", "1", {FCVAR_SERVER_CAN_EXECUTE, FCVAR_REPLICATED, FCVAR_NOTIFY})

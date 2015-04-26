@@ -1,7 +1,0 @@
-// Extracted with MulleDK19's GMAD Extractor
-"AddonInfo"
-{
-	"name" "Classic Light Stool"
-	"author_name" "Unknown"
-	"info" "Don't like the new light stool? Want to go back to a simple bulb/light orb to light up hallways or create special effects in your comics/machinima like the one in Garry's Mod 11? Now you can with the Classic Lightbulb Stool!  It has the fully customizable rope tether, colors, brightness, and radius settings that the GMod 11 Light Stool did. It's also usable as a prop, just like in the old days. As a bonus, it does NOT overwrite the new light stool and has its own cleanup options, so you can use them both in tandem!  Credits: Garry Newman for the Light Stool, of which this code was loosely based off of.  (Updated! There was a model I used that gave the Classic Light nice ball-like physics, but it turned out to be from HL2:EP2 and not HL2 like I thought. Rather than telling everyone to go out and buy ep2, I simply ripped the model and updated my content accordingly. Sorry for the inconvience!)  NOTE: I have not tested it in multiplayer, so I don't know if it will work there, but it should. If someone can upload it to their server and test it for me, it would be greatly appreciated."
-}

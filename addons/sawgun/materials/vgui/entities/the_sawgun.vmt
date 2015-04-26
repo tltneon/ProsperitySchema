@@ -1,6 +1,0 @@
-"UnlitGeneric"
-{
-	"$basetexture" "VGUI/entities/sawgun_menupic"
-	"$nolod" 1
-	"$translucent" 1
-}

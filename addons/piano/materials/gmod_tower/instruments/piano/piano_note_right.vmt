@@ -1,8 +1,0 @@
-"UnLitGeneric"
-{
-	"$basetexture" "gmod_tower/instruments/piano/piano_note_right"
-	"$ignorez"			1
-	"$vertexcolor" 		1
-	"$vertexalpha" 		1
-	"$nolod" 			1
-}

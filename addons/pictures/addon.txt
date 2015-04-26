@@ -1,6 +1,0 @@
-"AddonInfo"
-{
-	"name" "Pictures"
-	"author_name" "Obliviator"
-	"info" "Takes pictures of players screens."
-}

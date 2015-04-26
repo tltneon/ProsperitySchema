@@ -1,9 +1,0 @@
-ITEM.name = "Hamburger"
-ITEM.uniqueID = "food_hamburger"
-ITEM.model = "models/food/burger.mdl"
-ITEM.hungerAmount = 30
-ITEM.foodDesc = "An old hamburger, it probably isn't fresh any more."
-ITEM.quantity = 2
-ITEM.price = 4
-ITEM.width = 1
-ITEM.height = 1

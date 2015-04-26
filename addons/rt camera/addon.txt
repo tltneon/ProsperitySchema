@@ -1,7 +1,0 @@
-// Extracted with MulleDK19's GMAD Extractor
-"AddonInfo"
-{
-	"name" "RT Camera"
-	"author_name" "Unknown"
-	"info" "Fixed up the old RT camera from GM12"
-}
