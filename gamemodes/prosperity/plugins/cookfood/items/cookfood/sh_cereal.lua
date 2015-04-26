@@ -1,0 +1,10 @@
+ITEM.name = "Cereal"
+ITEM.uniqueID = "food_cereal"
+ITEM.model = "models/props_lab/harddrive02.mdl"
+ITEM.hungerAmount = 8
+ITEM.foodDesc = "Dried breakfast cereal in a convenient box."
+ITEM.quantity = 5
+ITEM.price = 7
+ITEM.width = 2
+ITEM.height = 3
+ITEM.cookable = false

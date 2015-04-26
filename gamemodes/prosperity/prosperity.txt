@@ -1,0 +1,7 @@
+"sample"
+{
+	"base"		"nutscript"
+	"title"		"Prosperity"
+	"author"	"Chancer"
+	"menusystem"	"1"
+}
