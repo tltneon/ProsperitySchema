@@ -1,0 +1,7 @@
+// Extracted with MulleDK19's GMAD Extractor
+"AddonInfo"
+{
+	"name" "Door STool"
+	"author_name" "Unknown"
+	"info" "Version: 1.7 (fixed for gmod 13, by me) Not originally my work, made by High6.  Fixes: -- Fixed any renamed functions, blah blah... -- Fix Ghost so that all doors are ghosted  Tweaks: -- Interface is much nicer -- Doors are sorted better, case is preserved -- Skin selector -- More doors -- Code is SOOOO much cleaner  GM12 Version (reupped by: guani, original author: High6): http://www.garrysmod.org/downloads/?a=view&id=14017"
+}

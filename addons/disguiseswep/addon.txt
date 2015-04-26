@@ -1,0 +1,7 @@
+// Extracted with MulleDK19's GMAD Extractor
+"AddonInfo"
+{
+	"name" "Disguise SWEP"
+	"author_name" "Unknown"
+	"info" "This SWEP allows you to disguise as props! Works in multiplayer too!  Instructions: To change the model you disguise as, aim at a prop, then right-click at it to use its model. Left-click to disguise as a prop or undisguise when disguised.  Please report any bugs you find.  Thanks and have fun!   Like the content I produce and would like to buy me a coffee?  [url=https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=77DG388U5BNL8]Click here![/url]"
+}

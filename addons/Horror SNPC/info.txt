@@ -1,0 +1,6 @@
+"AddonInfo"
+{
+	"name" "Horror SNPC"
+	"author_name" "author"
+	"info" "Due to the "flop" of my Dan's snpc pack, i noticed a lot of people wanted the HORROR snpc only, so after finally fixing it, i decided to upload it seperately with models included. The snpc will also be in my Dan's snpc pack too."
+}
